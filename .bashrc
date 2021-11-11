@@ -1,1 +1,1 @@
-alias npp="notepad++.exe -multiInst -nosession"
+alias npp="'C:\Program Files\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
